@@ -33,3 +33,4 @@ Less complex builds:
  * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_oclint.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_oclint) Use C++14: [travis_qmake_gcc_cpp14_oclint](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_oclint)
  * [![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp17) No OCLint: [travis_qmake_gcc_cpp17](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp17)
 
+
