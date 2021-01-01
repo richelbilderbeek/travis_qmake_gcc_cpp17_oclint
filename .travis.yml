@@ -1,0 +1,15 @@
+language: cpp
+dist: bionic
+compiler: gcc
+
+install: 
+  - sudo apt update -qq
+  # OCLint
+  - ./install_oclint.sh
+
+script: 
+  - qmake
+  - make
+  - ./travis_qmake_gcc_cpp17_oclint
+  # OCLint
+  - ./do_oclint.sh
